@@ -40,19 +40,6 @@ I enjoy working at the intersection of data engineering and intelligent systems 
 - Generative AI Use Cases  
 - AI + Data Engineering Integration  
 
----
-
-## 📊 GitHub Stats
-
-![Neha's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
-
----
-
-## 👀 Profile Views
-
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue)
 
 ---
 
