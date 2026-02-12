@@ -2,9 +2,9 @@
 
 💻 Data Engineer | 📊 Data Science & ML Enthusiast | 🤖 LLM & Generative AI Explorer  
 
-I’m a Data Engineer with 3+ years of experience in the healthcare domain, building scalable data pipelines and reliable data systems. Alongside data engineering, I’m deeply interested in Data Science, Machine Learning, Large Language Models (LLMs), and Generative AI.
+I’m a Data Engineer with 3+ years of experience in the healthcare domain, building scalable data pipelines and reliable data systems. Alongside data engineering, I’m deeply interested in Data Science, Machine Learning, Large Language Models (LLMs) and Generative AI.
 
-I enjoy working at the intersection of data engineering and intelligent systems — building strong data foundations that power analytics and AI solutions.
+I enjoy working at the intersection of data engineering and intelligent systems. Building strong data foundations that power analytics and AI solutions.
 
 ---
 
@@ -43,17 +43,9 @@ I enjoy working at the intersection of data engineering and intelligent systems 
 
 ---
 
-## 🏥 Domain Experience
-
-Experienced in healthcare and pharmaceutical data systems aligned with HIPAA standards, ensuring secure data handling, governance, and high data quality.
-
-I regularly collaborate with business stakeholders and communicate complex technical concepts in a clear, practical way.
-
----
-
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/neha-kv-51165a176/)
 
 ---
 
